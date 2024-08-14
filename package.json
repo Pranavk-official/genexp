@@ -1,0 +1,38 @@
+{
+  "name": "genexp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "genexp": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [
+    "express",
+    "generator",
+    "express-generator",
+    "nodejs",
+    "mvc",
+    "boilerplate",
+    "javascript",
+    "express-generator-mvc"
+  ],
+  "author": "Pranav K",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "description": "A simple Express boilerplate generator that creates a basic express app in MVC pattern with TypeScript and module support.",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "ejs": "^3.1.10",
+    "fs-extra": "^11.2.0",
+    "update-notifier": "^7.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pranavk-official/genexp.git"
+  }
+}
