@@ -6,7 +6,7 @@ import updateNotifier from "update-notifier";
 import pkg from "./package.json";
 
 program
-  .version("1.0.0")
+  .version("0.0.1")
   .argument("<project-name>", "Name of the project")
   .option("-d, --directory <directory>", "Project directory", ".")
   .option("-t, --typescript", "Use TypeScript", false)
