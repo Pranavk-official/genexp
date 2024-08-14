@@ -1,0 +1,25 @@
+{
+  "name": "<%= projectName %>",
+  "version": "1.0.0",
+  "description": "Express MVC application with TypeScript",
+  "main": "dist/app.js",
+  "scripts": {
+    "start": "node dist/app.js",
+    "dev": "nodemon --exec ts-node src/app.ts",
+    "build": "tsc"
+  },
+  <% if (modules) { %>"type": "module",<% } %>
+  "dependencies": {
+    "express": "^4.17.1",
+    "ejs": "^3.1.6",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/morgan": "^1.9.3",
+    "@types/node": "^16.11.12",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4",
+    "nodemon": "^2.0.15"
+  }
+}
