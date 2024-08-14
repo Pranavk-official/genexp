@@ -30,44 +30,44 @@
       "Overall": {
         "min": 0,
         "max": 65535,
-        "mean": 12137.4,
-        "median": 11479.3,
-        "standardDeviation": 7938.46,
-        "kurtosis": 25.0163,
-        "skewness": 4.55123,
-        "entropy": 0.442983
+        "mean": 12259.6,
+        "median": 11650.7,
+        "standardDeviation": 7963.99,
+        "kurtosis": 24.7821,
+        "skewness": 4.55002,
+        "entropy": 0.423155
       }
     },
     "channelStatistics": {
       "red": {
         "min": 0,
         "max": 65535,
-        "mean": 11579.3,
+        "mean": 11698.3,
         "median": 10280,
-        "standardDeviation": 7838.51,
-        "kurtosis": 27.2348,
-        "skewness": 4.79863,
-        "entropy": 0.433652
+        "standardDeviation": 8174.43,
+        "kurtosis": 24.5191,
+        "skewness": 4.62107,
+        "entropy": 0.422928
       },
       "green": {
         "min": 0,
         "max": 65535,
-        "mean": 12053.7,
+        "mean": 12129.5,
         "median": 11308,
-        "standardDeviation": 7705.05,
-        "kurtosis": 26.5726,
-        "skewness": 4.67614,
-        "entropy": 0.435867
+        "standardDeviation": 7738.02,
+        "kurtosis": 26.6659,
+        "skewness": 4.71586,
+        "entropy": 0.413744
       },
       "blue": {
         "min": 0,
         "max": 65535,
-        "mean": 12779.3,
-        "median": 12850,
-        "standardDeviation": 8271.81,
-        "kurtosis": 21.2414,
-        "skewness": 4.17891,
-        "entropy": 0.459431
+        "mean": 12950.9,
+        "median": 13364,
+        "standardDeviation": 7979.51,
+        "kurtosis": 23.1615,
+        "skewness": 4.31313,
+        "entropy": 0.432793
       }
     },
     "renderingIntent": "Perceptual",
@@ -105,14 +105,14 @@
     "quality": 85,
     "orientation": "Undefined",
     "properties": {
-      "signature": "e41b7a35a204230503a6ff6dbb537bbb1055f2b3bc3b3844f6b0c6f1fdee5a82"
+      "signature": "7f625cdcbe5f126e6c42d939412e98e759a8a36d1a27f97df0994b76c3ddd9a1"
     },
     "tainted": true,
     "filesize": "0B",
     "numberPixels": "1.0236M",
-    "pixelsPerSecond": "2.83105MB",
-    "userTime": "0.200u",
-    "elapsedTime": "0:01.361",
+    "pixelsPerSecond": "2.96956MB",
+    "userTime": "0.220u",
+    "elapsedTime": "0:01.344",
     "version": "ImageMagick 7.1.1-36 Q16-HDRI x86_64 22352 https://imagemagick.org"
   }
 },
@@ -148,44 +148,44 @@
       "Overall": {
         "min": 0,
         "max": 65535,
-        "mean": 12139,
-        "median": 11479.3,
-        "standardDeviation": 7936.56,
-        "kurtosis": 25.029,
-        "skewness": 4.55211,
-        "entropy": 0.442356
+        "mean": 12259.6,
+        "median": 11650.7,
+        "standardDeviation": 7963.99,
+        "kurtosis": 24.7821,
+        "skewness": 4.55002,
+        "entropy": 0.423155
       }
     },
     "channelStatistics": {
       "red": {
         "min": 0,
         "max": 65535,
-        "mean": 11580,
+        "mean": 11698.3,
         "median": 10280,
-        "standardDeviation": 7837.39,
-        "kurtosis": 27.2456,
-        "skewness": 4.79939,
-        "entropy": 0.433234
+        "standardDeviation": 8174.43,
+        "kurtosis": 24.5191,
+        "skewness": 4.62107,
+        "entropy": 0.422928
       },
       "green": {
         "min": 0,
         "max": 65535,
-        "mean": 12054.9,
+        "mean": 12129.5,
         "median": 11308,
-        "standardDeviation": 7703.41,
-        "kurtosis": 26.5868,
-        "skewness": 4.67706,
-        "entropy": 0.435082
+        "standardDeviation": 7738.02,
+        "kurtosis": 26.6659,
+        "skewness": 4.71586,
+        "entropy": 0.413744
       },
       "blue": {
         "min": 0,
         "max": 65535,
-        "mean": 12782.3,
-        "median": 12850,
-        "standardDeviation": 8268.89,
-        "kurtosis": 21.2546,
-        "skewness": 4.17989,
-        "entropy": 0.458754
+        "mean": 12950.9,
+        "median": 13364,
+        "standardDeviation": 7979.51,
+        "kurtosis": 23.1615,
+        "skewness": 4.31313,
+        "entropy": 0.432793
       }
     },
     "renderingIntent": "Perceptual",
@@ -223,14 +223,14 @@
     "quality": 85,
     "orientation": "Undefined",
     "properties": {
-      "signature": "75ed91b414815f5a9ae6945abb46d0c53c8f454872658ab0663ed873a137d732"
+      "signature": "7f625cdcbe5f126e6c42d939412e98e759a8a36d1a27f97df0994b76c3ddd9a1"
     },
     "tainted": true,
     "filesize": "0B",
     "numberPixels": "1.0236M",
-    "pixelsPerSecond": "1.54886MB",
-    "userTime": "0.700u",
-    "elapsedTime": "0:01.660",
+    "pixelsPerSecond": "1.52779MB",
+    "userTime": "0.730u",
+    "elapsedTime": "0:01.669",
     "version": "ImageMagick 7.1.1-36 Q16-HDRI x86_64 22352 https://imagemagick.org"
   }
 },
@@ -266,44 +266,44 @@
       "Overall": {
         "min": 0,
         "max": 65535,
-        "mean": 12118.4,
-        "median": 11393.7,
-        "standardDeviation": 7887.35,
-        "kurtosis": 25.5453,
-        "skewness": 4.5954,
-        "entropy": 0.436682
+        "mean": 12300.3,
+        "median": 11479.3,
+        "standardDeviation": 8127.24,
+        "kurtosis": 22.9292,
+        "skewness": 4.37476,
+        "entropy": 0.447263
       }
     },
     "channelStatistics": {
       "red": {
         "min": 0,
         "max": 65535,
-        "mean": 11577.9,
+        "mean": 11694.5,
         "median": 10280,
-        "standardDeviation": 7861.16,
-        "kurtosis": 27.2178,
-        "skewness": 4.8081,
-        "entropy": 0.431563
+        "standardDeviation": 7993,
+        "kurtosis": 25.2015,
+        "skewness": 4.62363,
+        "entropy": 0.442488
       },
       "green": {
         "min": 0,
         "max": 65535,
-        "mean": 12020.5,
+        "mean": 12208.9,
         "median": 11308,
-        "standardDeviation": 7625.3,
-        "kurtosis": 27.5429,
-        "skewness": 4.75171,
-        "entropy": 0.428665
+        "standardDeviation": 7900.74,
+        "kurtosis": 24.1718,
+        "skewness": 4.47693,
+        "entropy": 0.438105
       },
       "blue": {
         "min": 0,
         "max": 65535,
-        "mean": 12756.9,
-        "median": 12593,
-        "standardDeviation": 8175.59,
-        "kurtosis": 21.8752,
-        "skewness": 4.22638,
-        "entropy": 0.449817
+        "mean": 12997.7,
+        "median": 12850,
+        "standardDeviation": 8487.98,
+        "kurtosis": 19.4143,
+        "skewness": 4.02371,
+        "entropy": 0.461194
       }
     },
     "renderingIntent": "Perceptual",
@@ -341,14 +341,14 @@
     "quality": 85,
     "orientation": "Undefined",
     "properties": {
-      "signature": "37c9d218ed31602d10f2c4ecd1a8df5db061e83a9c9f12ff6d03c3798c3670c9"
+      "signature": "23fa3f191527cdc8f1c053b037afbf25718ef4bff6a8cfe85363240a717b35c1"
     },
     "tainted": true,
     "filesize": "0B",
     "numberPixels": "1.0236M",
-    "pixelsPerSecond": "1.14616MB",
-    "userTime": "1.310u",
-    "elapsedTime": "0:01.893",
+    "pixelsPerSecond": "1.17033MB",
+    "userTime": "1.250u",
+    "elapsedTime": "0:01.874",
     "version": "ImageMagick 7.1.1-36 Q16-HDRI x86_64 22352 https://imagemagick.org"
   }
 }]
