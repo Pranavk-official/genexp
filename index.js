@@ -14,7 +14,7 @@ const __filename = fileURLToPath(import.meta.url); // get the resolved path to t
 const __dirname = path.dirname(__filename); // get the name of the directory
 
 program
-  .version("1.0.0")
+  .version("1.0.1")
   .argument("<project-name>", "Name of the project")
   .option("-d, --directory <directory>", "Project directory", ".")
   .option("-t, --typescript", "Use TypeScript", false)
