@@ -6,6 +6,9 @@ import path from "path";
 import { fileURLToPath } from "url";
 import ejs from "ejs";
 import pkg from "./package.json" with { type: "json" };
+import updateNotifier from "update-notifier";
+
+updateNotifier({ pkg }).notify();
 
 const __filename = fileURLToPath(import.meta.url); // get the resolved path to the file
 const __dirname = path.dirname(__filename); // get the name of the directory
