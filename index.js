@@ -1,14 +1,17 @@
-import {program }from "commander";
+#!/usr/bin/env node
+
+import { program } from "commander";
 import fs from "fs-extra";
 import path from "path";
 import ejs from "ejs";
-// import updateNotifier from "update-notifier";
+import updateNotifier from "update-notifier";
 import pkg from "./package.json";
 
-// updateNotifier({ pkg }).notify();
+// Check for updates
+updateNotifier({ pkg }).notify();
 
 program
-  .version('0.0.1')
+  .version("1.0.0")
   .argument("<project-name>", "Name of the project")
   .option("-d, --directory <directory>", "Project directory", ".")
   .option("-t, --typescript", "Use TypeScript", false)
